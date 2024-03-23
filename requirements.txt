@@ -1,0 +1,9 @@
+requests
+urllib3
+pandas
+bs4
+seaborn
+plotly
+pandas
+dash
+ipykernel
