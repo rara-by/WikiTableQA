@@ -1,11 +1,9 @@
 # Web Scraping, Parsing and Visualization in Python
 
-This is an ongoing project where the Wikipedia page [List of foreign Premier League players](https://en.wikipedia.org/wiki/List_of_foreign_Premier_League_players) is parsed into the following dataset containing information about 2709 international players between 1992 and 2024 in the English Premier League.
+This is an ongoing project where the Wikipedia page [List of foreign Premier League players](https://en.wikipedia.org/wiki/List_of_foreign_Premier_League_players) is parsed into the following dataset containing information about 2709 international players between 1992 and 2024 in the English Premier League. Python libraries are used for data parsing, analysis, and visualization throughout the project.
 
 ![image](https://github.com/rara-by/WikiTableQA/assets/63100531/c4d00815-a4c4-42a9-9b80-5be2d02667f2) ![image](collage1.jpg)
 
-
-Python libraries are used for data parsing, analysis, and visualization throughout the project..
 
 - The **Create_Dataset.ipynb** notebook parses the HTML file and creates the **dataset.csv** file. It contains a combination of direct and derived fields. The **arsenal.csv** file is used to extract data specific to Arsenal players.
 - **EDA_Visualization.ipynb** contains analysis and visualization of the data. Pandas and Plotly Express Python libraries have been used for the visualization.
