@@ -1,4 +1,4 @@
-# WikiTableQA
+# Web Scraping, Parsing and Visualization in Python
 
 This is an ongoing project where the Wikipedia page [List of foreign Premier League players](https://en.wikipedia.org/wiki/List_of_foreign_Premier_League_players) is parsed into the following dataset containing information about 2709 international players between 1992 and 2024 in the English Premier League.
 
